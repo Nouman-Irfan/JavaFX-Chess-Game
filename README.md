@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Developed By
 
-# Muhammad Nouman & Aqsa Ismail
+# Muhammad Nouman
 
 <br>
 
@@ -382,7 +382,7 @@ This project is licensed under the **GNU GPL v3 License** 📜
 
 # 👨‍💻 Authors
 
-## Muhammad Nouman & Aqsa Ismail
+## Muhammad Nouman
 
 💻 Computer Science Students
 🚀 Aspiring Software Engineers
