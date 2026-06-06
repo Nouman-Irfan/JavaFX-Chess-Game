@@ -48,13 +48,21 @@ Built using Java, JavaFX, and Object-Oriented Programming principles.
 # 🌟 Project Highlights
 
 ✨ Interactive JavaFX GUI
+
 ✨ Complete Chess Rules Implementation
+
 ✨ Accurate Move Validation System
+
 ✨ Dynamic Piece Rendering
+
 ✨ Real-Time Check & Checkmate Detection
+
 ✨ Smooth Turn-Based Gameplay
+
 ✨ Modern Object-Oriented Architecture
+
 ✨ Professional Asset Management
+
 ✨ Beginner-Friendly Yet Scalable Code Structure
 
 ---
