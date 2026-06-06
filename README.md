@@ -57,19 +57,19 @@
 
 ## ♟️ Main Gameplay
 
-<img src="PICTURES/gameplay.png" width="600"/>
+<img src="PICTURES/gameplay.png" width="500"/>
 
 ---
 
 ## ⚔️ Mid Game Battle
 
-<img src="PICTURES/midgame.png" width="600"/>
+<img src="PICTURES/midgame.png" width="500"/>
 
 ---
 
 ## ♚ Checkmate Screen
 
-<img src="PICTURES/checkmate.png" width="600"/>
+<img src="PICTURES/checkmate.png" width="500"/>
 
 </div>
 
