@@ -24,8 +24,8 @@ import java.util.Objects;
 /*
  * =========================================================
  *  CHESS GAME – JavaFX/GUI
- *  Original Authors: Muhammad Nouman (L1F25BSCS0131)
- *                    Aqsa Ismail     (L1F25BSCS0055)
+ *  Original Authors: Muhammad Nouman 
+ *                    Aqsa Ismail    
  * =========================================================
  *
  *  All original rules faithfully preserved:
