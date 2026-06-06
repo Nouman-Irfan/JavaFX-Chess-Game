@@ -1,13 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Compiled Java files
+*.class
 
-### VS Code ###
-.vscode/
+# Build folders
+out/
+build/
+target/
 
-### Mac OS ###
+# Logs
+*.log
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
